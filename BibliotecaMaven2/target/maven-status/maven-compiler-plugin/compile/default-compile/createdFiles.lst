@@ -1,0 +1,10 @@
+com\mycompany\bibliotecamaven2\UsuarioRepository.class
+com\mycompany\bibliotecamaven2\Libro.class
+com\mycompany\bibliotecamaven2\UsuarioController.class
+com\mycompany\bibliotecamaven2\BibliotecaMaven2.class
+com\mycompany\bibliotecamaven2\AutorRepository.class
+com\mycompany\bibliotecamaven2\Usuario.class
+com\mycompany\bibliotecamaven2\Autor.class
+com\mycompany\bibliotecamaven2\AutorController.class
+com\mycompany\bibliotecamaven2\LibroController.class
+com\mycompany\bibliotecamaven2\LibroRepository.class
